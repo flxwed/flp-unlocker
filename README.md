@@ -11,7 +11,7 @@ Once you've installed python, run the script with the file you want to unlock in
 > Note: Some FL plugins will not work when using an unlocked flp. Try to find and avoid plugins like these as most of them will delete your settings entirely when this happens.
 
 ```bash
-> py flpunlocker.py C:/Users/Bob/Desktop/My FLP.flp
+> py flpunlocker.py "C:/Users/Bob/Desktop/My FLP.flp"
 making backup...
 saved to MyFLP.flp.bak
 
